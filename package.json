@@ -1,0 +1,14 @@
+{
+  "name": "kit.cool",
+  "version": "0.0.1",
+  "description": "kit.server",
+  "main": "bin/www",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "scan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
